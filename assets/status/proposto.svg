@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" role="img" aria-labelledby="title desc">
+  <title id="title">Status proposto</title>
+  <desc id="desc">Círculo cinza com sinal de adição</desc>
+  <circle cx="10" cy="10" r="9" fill="#57606A"/>
+  <path d="M10 5.5v9M5.5 10h9" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+</svg>

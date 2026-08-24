@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" role="img" aria-labelledby="title desc">
+  <title id="title">Status implementado</title>
+  <desc id="desc">Círculo verde com dupla marca de verificação</desc>
+  <circle cx="10" cy="10" r="9" fill="#1A7F37"/>
+  <path d="M3.8 10.3 6.4 13l4.5-5M8.4 11.8 10 13.4l6.2-6.5" fill="none" stroke="#FFFFFF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
