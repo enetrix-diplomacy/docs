@@ -1,5 +1,13 @@
 # Regras de Negócio
 
+## Visão geral
+
+| ID | Regra | Prioridade | Status |
+|---|---|---|---|
+| RN-001 | Acesso ao sistema | Alta | Aprovada |
+| RN-002 | Perfis de acesso | Alta | Em validação |
+| RN-003 | Registro de alterações | Média | Proposta |
+
 ## RN-001 — Título da regra
 
 **Descrição:**  
@@ -28,3 +36,18 @@ RF-001, RF-004.
 
 **Status:** Aprovada  
 **Responsável:** Área ou pessoa
+
+## RN-001 — Acesso ao sistema
+
+| Campo | Informação |
+|---|---|
+| **Descrição** | O sistema deve permitir acesso apenas a usuários previamente cadastrados. |
+| **Justificativa** | Evitar o acesso de pessoas não autorizadas. |
+| **Origem** | Equipe gestora do projeto |
+| **Aplicação** | Autenticação e controle de acesso |
+| **Exceções** | Não se aplica à página pública inicial. |
+| **Requisitos relacionados** | RF-001, RF-002 |
+| **Critérios de validação** | Usuário não cadastrado deve ter o acesso recusado. |
+| **Prioridade** | Alta |
+| **Status** | Aprovada |
+| **Responsável** | Equipe de produto |
